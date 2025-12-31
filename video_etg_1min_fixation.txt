@@ -1,0 +1,22 @@
+object_id,class_name,total_fixation_time_sec
+2,car,3.6333
+8,car,0.4
+47,car,0.1333
+44,car,0.5
+52,car,0.0333
+12,car,0.0333
+85,car,0.2
+92,car,0.1
+99,car,0.2
+104,car,0.0667
+145,car,0.3667
+201,car,0.1
+195,car,0.3
+241,car,0.2
+245,person,1.0667
+247,car,0.3
+249,person,0.4333
+252,person,0.1667
+256,person,0.1
+260,person,0.1667
+275,traffic light,0.7667
